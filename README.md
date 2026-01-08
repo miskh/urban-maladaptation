@@ -1,6 +1,6 @@
-# Urban Maladaptation in Times of Epidemics
+# On Urban Maladaptation in Times of Epidemics
 
-This repository contains the analysis code for the paper **"On Urban Maladaptation in Times of Epidemics"** (under review).
+This repository contains the analysis code for the paper **"On Urban Maladaptation in Times of Epidemics"** ([DOI:10.1038/s41598-025-33158-5](https://doi.org/10.1038/s41598-025-33158-5)).
 
 Using a large-scale agent-based model of The Hague (Netherlands) during the COVID-19 pandemic, we explore how "one-size-fits-all" crisis interventions can lead to unintended consequences in heterogeneous urban environments. We find that a uniform lockdown policy can inadvertently increase infection risk in some districts while protecting others. We refer to this phenomenon as **urban maladaptation**, drawing on the established concept of maladaptation from climate studies (e.g., [Schipper, 2020](https://www.sciencedirect.com/science/article/pii/S2590332220304838)).
 
@@ -127,11 +127,11 @@ Our analysis is based on a large-scale agent-based model simulating the daily li
 ## Citation
 
 ```bibtex
-@article{sirenko2025maladaptation,
+@article{sirenko2026maladaptation,
   title={On Urban Maladaptation in Times of Epidemics},
   author={Sirenko, Mikhail and Verbraeck, Alexander and Comes, Tina},
-  journal={Under review},
-  year={2025}
+  journal={Scientific Reports},
+  year={2026}
 }
 ```
 
